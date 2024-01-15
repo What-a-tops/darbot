@@ -1,0 +1,19 @@
+.about-git-container {
+    font-size: 10px;
+    color: white;
+    text-align: justify;
+    background-color: #A100FF;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.about-git-container a {
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.about-git-container a:hover {
+    text-decoration: underline;
+}

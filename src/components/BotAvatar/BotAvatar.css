@@ -1,0 +1,12 @@
+.yam-bot-avatar{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-size: 0.9rem;
+    color: #fff;
+    margin-right: 15px;
+    border:1px solid #A100FF;
+}

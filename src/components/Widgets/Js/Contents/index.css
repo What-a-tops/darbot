@@ -1,0 +1,13 @@
+.js-container {
+    font-size: 10px;
+    color: white;
+    text-align: justify;
+    background-color: #A100FF;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.js-container a {
+    font-weight: bold;
+    color: white;
+}

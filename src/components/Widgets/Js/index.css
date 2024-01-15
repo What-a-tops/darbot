@@ -1,0 +1,23 @@
+.yam-container {
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+.yam-button {
+    margin: 5px;
+    border-radius: 25px;
+    padding: 8px;
+    border: 1.5px solid #A100FF;
+    background: transparent;
+    text-align: center;
+    cursor: pointer;
+    width: 19em;
+}
+
+.yam-button:hover {
+    background-color: #A100FF;
+    color: white;
+    transition: 0.2s ease-in-out;
+    border: 1.5px solid white;
+}

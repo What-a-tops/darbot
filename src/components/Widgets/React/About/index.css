@@ -1,0 +1,12 @@
+.about-container {
+    font-size: 10px;
+    color: white;
+    text-align: justify;
+    background-color: #A100FF;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.about-container a {
+    font-weight: bold;
+}

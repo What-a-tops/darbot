@@ -1,0 +1,145 @@
+{
+    "menus" :  [
+        {
+            "id" : 1,
+            "name" : "React",
+            "contents" : [
+                {
+                    "name" : "About React?",
+                    "desc" : "React is a JavaScript library created by Facebook", 
+                    "link" : "https://legacy.reactjs.org/"
+                },
+                {
+                    "name" : "Tutorials?",
+                    "desc" : "You may follow every steps, Enjoy learning!",
+                    "link" : "https://legacy.reactjs.org/tutorial/tutorial.html" 
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "name" : "Git",
+            "contents" : [
+                {
+                    "name" : "About Git?",
+                    "description" : "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
+                    "link": "https://git-scm.com/",
+                    "developments" : [
+                        {
+                            "id" : 0,
+                            "name" : "Local",
+                            "desc" : "A local environment is independent of any hosting as it is kept offline and run on a local machine or server. This is an efficient and cost-effective way of adding a test environment without worrying about paying for multiple environments. It also adds the benefit of being independent on internet connectivity, so you can work on your project wherever and whenever.",
+                            "link" : "https://umbraco.com/knowledge-base/staging-environment/#:~:text=A%20staging%20environment%20is%20the,they%20hit%20the%20live%20website."
+                        },
+                        {
+                            "id" : 1,
+                            "name" : "Staging",
+                            "desc" : "A staging environment is the last step before something goes into production and is visible on the live site.",
+                            "link" : "https://umbraco.com/knowledge-base/staging-environment/#:~:text=A%20staging%20environment%20is%20the,they%20hit%20the%20live%20website."
+                        },
+                        {
+                            "id" : 2,
+                            "name" : "Production",
+                            "desc" : "The live environment - also called the production environment - is the final stage and the website that a user will see. If the process of deploying and testing changes is good between your environments, then this version of your website should be without bugs or issues, so you can provide the end-user with a great digital experience.",
+                            "link" : "https://umbraco.com/knowledge-base/staging-environment/#:~:text=A%20staging%20environment%20is%20the,they%20hit%20the%20live%20website."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name" : "Javascript",
+            "contents" : [
+                {
+                    "name" : "What is Javascript?",
+                    "desc" : "JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive. Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.",
+                    "link" : "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"
+                },
+                {
+                    "name" : "Frameworks of Javascript?",
+                    "link" : "a collection of libraries containing code written in JavaScript",
+                    "contents" : [
+                        {
+                            "name": "React",
+                            "desc" : "React is a JavaScript library created by Facebook"
+                        },
+                        {
+                            "name": "Angular",
+                            "desc" : "Angular is a platform for building mobile and desktop web applications"
+                        },
+                        {
+                            "name": "Vue",
+                            "desc" : "Vue is a progressive framework for building user interfaces"
+                        },
+                        {
+                            "name": "Ember",
+                            "desc" : "Ember.js is an open-source JavaScript web framework, based on the Model–view–viewmodel pattern"
+                        },
+                        {
+                            "name": "Backbone",
+                            "desc" : "Backbone.js is a JavaScript library with a RESTful JSON interface and is based on the Model–view–presenter application design paradigm"
+                        },
+                        {
+                            "name": "Meteor",
+                            "desc" : "Meteor, or MeteorJS, is a free and open-source isomorphic JavaScript web framework written using Node.js"
+                        },
+                        {
+                            "name": "Aurelia",
+                            "desc" : "Aurelia is a JavaScript client framework for web, mobile and desktop that leverages simple conventions to empower your creativity"
+                        },
+                        {
+                            "name": "Polymer",
+                            "desc" : "Polymer is an open-source JavaScript library for building web applications using Web Components"
+                        },
+                        {
+                            "name": "Mithril",
+                            "desc" : "Mithril is a modern client-side JavaScript framework for building Single Page Applications"
+                        },
+                        {
+                            "name": "Knockout",
+                            "desc" : "Knockout is a standalone JavaScript implementation of the Model-View-ViewModel pattern with templates"
+                        },
+                        {
+                            "name": "Preact",
+                            "desc" : "Preact is a fast 3kB alternative to React with the same modern API"
+                        },
+                        {
+                            "name": "Svelte",
+                            "desc" : "Svelte is a radical new approach to building user interfaces. Whereas traditional frameworks like React and Vue do the bulk of their work in the browser, Svelte shifts that work into a compile step that happens when you build your app"
+                        },
+                        {
+                            "name": "Inferno",
+                            "desc" : "Inferno is an insanely fast, 9kb React-like library for building high-performance user interfaces on both the client and server"
+                        },
+                        {
+                            "name": "Marko",
+                            "desc" : "Marko is a friendly (and fast!) UI library that makes building web apps fun"
+                        },
+                        {
+                            "name": "Nuxt",
+                            "desc" : "Nuxt.js is a free and open source web application framework based on Vue.js, Node.js, Webpack and Babel.js"
+                        },
+                        {
+                            "name": "Next",
+                            "desc" : "Next.js is a minimalistic framework for server-rendered React applications"
+                        },
+                        {
+                            "name": "Gatsby",
+                            "desc" : "Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps"
+                        },
+                        {
+                            "name": "Sapper",
+                            "desc" : "Sapper is a framework for building high-performance universal web apps"
+                        }   
+                    ]
+                },
+                {
+                    "name" : "JQuery?",
+                    "desc" : "jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers. With a combination of versatility and extensibility, jQuery has changed the way that millions of people write JavaScript.",
+                    "link" : "https://jquery.com/"
+                }
+            ]
+        }
+    ]
+}

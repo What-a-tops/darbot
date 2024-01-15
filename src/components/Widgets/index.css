@@ -1,0 +1,23 @@
+    .options-container {
+        display: flex;
+        gap: 6px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .option-button {
+        border-radius: 25px;
+        padding: 8px;
+        border: 1.5px solid #A100FF;
+        background: transparent;
+        text-align: center;
+        cursor: pointer;
+    }
+
+    .option-button:hover {
+        background-color: #A100FF;
+        color: white;
+        transition: 0.2s ease-in-out;
+        border-color: #A100FF;
+        border: 1.5px solid white;
+    }
